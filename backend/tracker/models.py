@@ -1,7 +1,7 @@
 # Create your models here.
 # backend/tracker/models.py
-
 from django.db import models
+
 
 class Product(models.Model):
     #Create a Product model that contains the fields 
